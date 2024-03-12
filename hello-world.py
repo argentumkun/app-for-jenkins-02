@@ -4,6 +4,6 @@ import time
 
 print('Hello, World!')
 
-print('v1.1')
+print('v1.0')
 
-time.sleep(5) # Sleep for 5 seconds
+time.sleep(3) # Sleep for 3 seconds
